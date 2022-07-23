@@ -1,2 +1,3 @@
-# DeliFood
-Food app where you can select a dish and see its ingredients, recipe and picture
+# meals_app
+
+DeliFoods is an app that sorts meals and provides their picture, ingredients, and recipe. You can also filter them and select favourites.
